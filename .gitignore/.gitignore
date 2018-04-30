@@ -24,6 +24,7 @@
 *.sqlite
 *.xml
 *.xls
+*.xlsx
 # OS generated files #
 #####################
 .DS_Store
