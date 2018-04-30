@@ -1,0 +1,3 @@
+Iteration	Num of held-out terminals	Num of recovered terminals	Total num of Steiner nodes
+1	34	0	0
+2	34	0	0

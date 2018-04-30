@@ -1,0 +1,4 @@
+How to compile msgsteiner:
+- Install boost library
+- use mmingw32-make or mingw to run make file
+- if error message was i386 incompatible then remove *.o files compiled early and re-run make file

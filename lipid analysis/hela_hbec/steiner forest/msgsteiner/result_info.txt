@@ -1,0 +1,9 @@
+num threads: 1
+6456 edges, 1983 vertices
+5 -472.942 0 -472.942 0 0
+
+There were 68 terminals in the interactome.
+There are 0 terminals in the optimal forest.
+The optimal forest has 0 nodes total.
+The roots in the optimal forest are []
+Of these, [] are singletons and will not show up in optimalForest.sif since they have no leaves.
