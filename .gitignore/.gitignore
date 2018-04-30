@@ -70,7 +70,12 @@ simpletest/
 *.eot
 *.ttf
 *.woff
-# web pages #
+# documents #
 #######################
 *.html
+*.pdf
+# output files #
+#######################
+*.txt
+*.csv
 
