@@ -1,0 +1,76 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+# Packages #
+###################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databass #
+####################
+*.log
+*.sql
+*.sqlite
+*.xml
+*.xls
+# OS generated files #
+#####################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.ehthumbs.db
+Thumbs.db
+
+# Other folder #
+######################
+simpletest/
+
+# Images #
+######################
+*.jpg
+*.gif
+*.png
+*.svg
+*.ico
+
+# Video #
+######################
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+
+# Audio #
+######################
+*.wav
+*.mp3
+*.wma
+
+# fonts #
+######################
+*.eot
+*.ttf
+*.woff
+# web pages #
+#######################
+*.html
+
